@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usuarios>
+<usuario>
+<id>1</id>
+<nombre>Luis</nombre>
+<correo>luisbeto12345678@gmail.com</correo>
+<direccion>Su casa suya de el</direccion>
+<telefono>6481093379</telefono>
+</usuario>
+<usuario>
+<id>2</id>
+<nombre>Antonio</nombre>
+<correo>omg12@gmail</correo>
+<direccion>Río Florido, 33710 Cd Camargo, Chih.
+</direccion>
+<telefono>6485059053</telefono>
+</usuario>
+</usuarios>

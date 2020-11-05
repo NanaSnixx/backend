@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<usuarios>
+<usuario>
+<id>1</id>
+<nombre>Omar</nombre>
+<correo>mejia10cadena@gmail.com</correo>
+<direccion>Ave3</direccion>
+<telefono>6391346518</telefono>
+</usuario>
+<usuario>
+<id>2</id>
+<nombre>Perez</nombre>
+<correo>mejiamar@hotmail.com</correo>
+<direccion>Instituto Tecnologico de Delciias</direccion>
+<telefono>45345</telefono>
+</usuario>
+<usuario>
+<id>3</id>
+<nombre>Perez</nombre>
+<correo>mejia@hotmail.com</correo>
+<direccion>Instituto Tecnologico de Delciias</direccion>
+<telefono>4234234</telefono>
+</usuario>
+</usuarios>
